@@ -1,0 +1,229 @@
+/*通用代码*/
+*{
+	margin:0px;
+	padding:0px;
+	font-size: 12px;
+	font-family:"微软雅黑";
+}
+ul{
+	list-style: none;
+}
+li{
+	float:left;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:none;
+}
+.clear{
+	clear: both;
+}
+/*通用代码结束*/
+/*顶部代码*/
+.topbg{
+	height: 102px;
+}
+.top{
+	width: 1263px;
+	height: 102px;
+	margin:0 auto;
+ }
+.top  div{
+	line-height: 90px;
+	margin-left:65px;
+	float:left;
+	margin-right: 231px;
+}
+.top div span{
+	font-size: 25px;
+	color:#ccc;
+}
+.top div .lab{
+	color:rgb(242,95,91);
+}
+.top a{
+	margin-top: 42px;
+	margin-left: 30px;
+	float:left;
+	color:#ccc;
+}
+.top .home{
+	width: 72px;
+	height: 42px;
+	background: rgb(242,95,91);
+	border-radius: 5px;
+	color:#fff;
+    margin:30px -14px 0px 0px;
+	text-align: center;
+	line-height: 42px;
+}
+.top .portfolio{
+
+	margin-left: 51px;
+}
+.top .contact{
+	width: 82px;
+	height: 42px;
+	background: rgb(242,95,91);
+	border-radius: 5px;
+	color:#fff;
+    margin:30px -14px 0px 30px;
+	text-align: center;
+	line-height: 42px;
+}
+.top input{
+	width: 140px;
+	height: 34px;
+	float:left;
+	padding-left: 40px;
+	margin:30px 0px 0px 30px;
+	background: url(images/Portfolio_0321.png) no-repeat 10px 10px ;
+	border:1px solid #ccc;
+	border-radius: 5px;
+}
+/*顶部代码结束*/
+/*contacts代码*/
+.contacts{
+	width:1263px;
+	height: 102px;
+	margin:0 auto;
+	background: rgb(71,82,104);
+}
+.contacts a{
+	font-size: 25px;
+	color:#fff;
+	float:left;
+	margin-left: 65px;
+	line-height: 102px;
+	margin-right: 842px;
+}
+.contacts span{
+	float:left;
+	line-height: 92px;
+	margin:5px;
+	color:rgb(247,123,111);
+}
+.contacts .fff{
+	color:#fff;
+}
+/*PORTFOL IO代码结束*/
+/*空白处的代码*/
+.kong{
+	width: 1263px;
+	height: 450px;
+	background: red;
+	margin:0 auto;
+}
+/*空白处的代码结束*/
+/*table代码*/
+.teble{
+	width: 1263px;
+	height: 460px;
+	margin:0 auto;
+}
+.teble .tebleft{
+	width: 295px;
+	height: 295px;
+	margin-top: 5px;
+	margin-left: 63px;
+	float:left;
+}
+.teble a{
+	display: block;
+	font-size:20px;
+	margin-bottom: 30px;
+}
+.teble .tebleft p{
+	font-size: 12px;
+	line-height: 20px;
+}
+.teble .tebleft .phone{
+	margin-top: 76px;
+}
+.teble .tebleright {
+	width: 654px;
+	height: 430px;
+	float: left;
+	margin: 5px 0px 0px 195px;
+}
+.teble .tebleright span{
+
+	line-height: 24px;
+}
+.teble .tebleright input{
+	width: 652px;
+	height: 32px;
+	border:1px solid #ccc;
+	border-radius: 5px;
+	outline-style: none;
+}
+.teble .tebleright .ipt{
+	height: 115px;
+}
+.teble .tebleright .submit{
+	width: 75px;
+	height: 36px;
+	background:#FF6C60; 
+	border-radius: 8px;
+	margin-top:15px;
+	text-align: center;
+	line-height: 36px;
+	color:#fff;
+	font-size: 16px;
+}
+/*table代码结束*/
+
+/*bottom底部代码*/
+.bottom{
+	width: 1263px;
+	height: 313px;
+	background:rgb(71,82,104);
+	margin:0 auto;
+}
+.bottom h2{
+	font-weight: normal;
+
+	font-size:18px; 
+	margin-bottom: 33px;
+}
+.bottom p{
+	margin-top: 20px;
+}
+.bottom span{
+		color: rgb(211,94,104);
+}
+.bottom .ace{
+	margin-left: 67px;
+}
+.bottom .info{
+	width: 217px;
+	height: 210px;
+	color:#fff;
+	float:left;
+	margin:53px 120px 0px 62px;
+}
+.bottom .bot{
+	width: 266px;
+	height: 61px;
+	float:left;
+	color:#fff;
+	margin-top:53px
+}
+
+.bottom .stay{
+	width: 265px;
+	height: 170px;
+	float:right;
+	margin: 63px 105px 0px 0px;
+	
+	color:#fff;
+}
+.bottom .stay ul li{
+	width: 50px;
+	height: 50px;
+	margin:10px 10px 0px 0px;
+	background: rgb(80,91,113);
+}
+/*bottom底部代码结束
